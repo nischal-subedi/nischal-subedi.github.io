@@ -1,2 +1,2 @@
-# nischal-subedi.github.io
- Learning WebSite
+# Nischal's Website
+My Personal Website
