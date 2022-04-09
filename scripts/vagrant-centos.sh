@@ -14,10 +14,8 @@ vagrant box add centos-7.0-x86_64.box --name centos7
 echo "Initializing Added box for Vagrant"
 vagrant init
 
-#Need to find a automated way to edit config.vm.box = "box-name" in Vagrant File
-#Currently skipping the step, do it manually!
-
-vim Vagrantfile
+echo "Changing Box Name to CentOS 7 from base"
+sed -i 's/config.vm.box = "base"/config.vm.box = "centos7"/' Vagrantfile
 
 echo "Starting up Vagrant Box"
 vagrant up
