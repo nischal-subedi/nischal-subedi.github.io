@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Nischal's Site Blog</title>
+        <link>https://nischals.com.np/blog</link>
+        <description>Nischal's Site Blog</description>
+        <lastBuildDate>Wed, 19 Feb 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Why start a blog]]></title>
+            <link>https://nischals.com.np/blog/why-start-a-blog</link>
+            <guid>https://nischals.com.np/blog/why-start-a-blog</guid>
+            <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is the initial blog i would like to start with.]]></description>
+            <content:encoded><![CDATA[<p>This is the initial blog i would like to start with.</p>
+<p>I mostly write on technologies i implement and use on a daily basis. I thought why not have a personal site with blogs inbuilt so this is the full form of that ideation.</p>
+<p>Having a blog means online exposure which seems to be a must nowadays and also i get to share my knowledge. I know the feeling of finding a blog article hidden pages behind in a search hit which has the actual solution to a problem you face so i wish to pay it forward and help others who face similar issues with my blog.</p>
+<p>I chose docusaurus for this because i had prior experience working with it when writing project documentation and also native dark modeeee.</p>
+<p>I'll migrate few of my old blogs from my old site and write some new ones in coming time.</p>]]></content:encoded>
+            <category>Unkown</category>
+        </item>
+    </channel>
+</rss>

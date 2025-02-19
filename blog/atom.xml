@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nischals.com.np/blog</id>
+    <title>Nischal's Site Blog</title>
+    <updated>2025-02-19T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://nischals.com.np/blog"/>
+    <subtitle>Nischal's Site Blog</subtitle>
+    <icon>https://nischals.com.np/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Why start a blog]]></title>
+        <id>https://nischals.com.np/blog/why-start-a-blog</id>
+        <link href="https://nischals.com.np/blog/why-start-a-blog"/>
+        <updated>2025-02-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the initial blog i would like to start with.]]></summary>
+        <content type="html"><![CDATA[<p>This is the initial blog i would like to start with.</p>
+<p>I mostly write on technologies i implement and use on a daily basis. I thought why not have a personal site with blogs inbuilt so this is the full form of that ideation.</p>
+<p>Having a blog means online exposure which seems to be a must nowadays and also i get to share my knowledge. I know the feeling of finding a blog article hidden pages behind in a search hit which has the actual solution to a problem you face so i wish to pay it forward and help others who face similar issues with my blog.</p>
+<p>I chose docusaurus for this because i had prior experience working with it when writing project documentation and also native dark modeeee.</p>
+<p>I'll migrate few of my old blogs from my old site and write some new ones in coming time.</p>]]></content>
+        <author>
+            <name>Nischal Subedi</name>
+            <uri>https://github.com/nischal-subedi</uri>
+        </author>
+        <category label="Unkown" term="Unkown"/>
+    </entry>
+</feed>

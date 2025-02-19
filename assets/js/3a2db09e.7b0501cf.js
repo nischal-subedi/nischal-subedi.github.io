@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocux=self.webpackChunkdocux||[]).push([[121],{8070:n=>{n.exports=JSON.parse('{"tags":[{"label":"Unkown","permalink":"/blog/tags/unknown","description":"Don\'t know what to tag use, just use unkown","count":1}]}')}}]);
