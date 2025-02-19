@@ -1,0 +1,19 @@
+kubernetes:
+  label: Kubernetes
+  permalink: /kubernetes
+  description: Kubernetes related blogs
+
+docker:
+  label: Docker
+  permalink: /docker
+  description: Docker related blogs
+
+opinions:
+  label: Opinions
+  permalink: /opinions
+  description: Personal Opinions
+
+unkown:
+  label: Unkown
+  permalink: /unknown
+  description: Don't know what to tag use, just use unkown
